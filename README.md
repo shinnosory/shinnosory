@@ -1,6 +1,5 @@
-<h1 align="center">⛧ Hey, I'm Antonella ⛧</h1>
-
 <div align="center">
+  
   <img src="https://skillicons.dev/icons?i=html" height="60" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="60" />
