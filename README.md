@@ -1,8 +1,4 @@
-<h1 align="center">⛧ Hey, I'm shinnosory ⛧</h1>
-
-<p align="center">
-  <i>Front-end developer in progress • estética gótica • código com personalidade</i>
-</p>
+<h1 align="center">⛧ Hey, I'm Antonella ⛧</h1>
 
 ---
 
@@ -13,21 +9,6 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" />
 </div>
-
----
-
-### 🩸 Sobre mim
-- 🖤 Apaixonada por estética gótica e criatividade  
-- 💻 Estudando **desenvolvimento web front-end**  
-- 🔥 Focada em projetos com identidade visual forte  
-- 🌑 Transformando ideias em código  
-
----
-
-### 🩸 Tecnologias
-- **HTML5** — estrutura  
-- **CSS3** — estilo, sombras, vermelho e escuridão  
-- **JavaScript** — interatividade  
 
 ---
 
