@@ -8,8 +8,6 @@ Atualmente estou iniciando meus estudos em Desenvolvimento Web de forma autodida
 
 [![shinnosory](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnosory&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-darkred?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-bloodred?style=for-the-badge&logo=css3&logoColor=white" />
