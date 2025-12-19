@@ -6,5 +6,7 @@
 </div>
 <br>
 <div align="center">
-
+<a href="https://github.com/shinnosory" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinnosory&theme=dracula&show_icons=true" />
+</a>
 </div>
