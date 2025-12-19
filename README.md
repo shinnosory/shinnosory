@@ -1,8 +1,7 @@
-<div align="center">
-╭────── · · ୨୧ · · ──────╮
+ · · ୨୧ · · <br>
 Hello world! I am Antonella.
-╰────── · · ୨୧ · · ──────╯
-</div>
+ · · ୨୧ · ·
+
 <br>
 
 [![shinnosory](https://github-readme-stats.vercel.app/api?username=shinnosory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
