@@ -1,20 +1,10 @@
-
+╭────── · · ୨୧ · · ──────╮
+Hello world! I am Antonella.
+╰────── · · ୨୧ · · ──────╯
 
 [![shinnosory](https://github-readme-stats.vercel.app/api?username=shinnosory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![shinnosory](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnosory&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-⢠⡏⠉⠑⢄⠀ ⠀  ⡠⠋⠉⢱⡀
-⡇⠙⠒⠒⠬⡗⢒⢮⠄⠒⠒⠁⢣
-⠇⠀⠈⠁⢁⡷⠤⢮⠈⠁⠀⠀⡌
-⠘⢄⣀⡰⢻⠁⠀⠘⡕⢄⣀⡰⠁⠀⊹ 
-⠀⡎⠘⢀⠇⠀⠀⠀⢱⠈⠂⠡⠀
-⠀⠑⢄⡜⠢⡀⠀⢀⠔⠇⡴⠃⠀
-⠀⠀⠀⠑⠠⠚⠀⠓⠔⠋⠀⠀
-⊹
-</div>
-  
 <br>
 ♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪🎶🎵‧₊ 𝄞₊˚⊹
 <br><br>
