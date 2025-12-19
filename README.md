@@ -8,4 +8,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shinnosory&show_icons=true&theme=dracula&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" height="150" />
 </div>
-♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪🎶🎵‧₊ 𝄞₊˚⊹
