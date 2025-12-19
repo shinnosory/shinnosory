@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red" />
 </div>
 <br>
-<div align="center">
-<a href="https://github.com/shinnosry" title="Shinnosory">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinnosry&theme=dracula&show_icons=true" />
-</a>
-</div>
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=shinnosory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?shinnosory=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
