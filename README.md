@@ -16,6 +16,3 @@
   <img src="https://img.shields.io/badge/CSS3-bloodred?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red" />
 </div>
-
-♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪ 𝄞₊˚⊹🎶🎵‧₊˚♪ 𝄞₊˚⊹‧₊˚♪🎶🎵‧₊ 𝄞₊˚⊹
-<br><br>
