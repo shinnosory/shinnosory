@@ -1,6 +1,6 @@
 *I am Antonella ୨୧*
 ---
-<p>Sou estudante de Ensino Médio Técnico em Informática.
+<p>Sou estudante de Ensino Médio Técnico em Informática. 
 Atualmente estou iniciando meus estudos em Desenvolvimento Web de forma autodidata, com foco em aprendizado prático e construção de projetos simples.</p>
 <br>
 
