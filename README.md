@@ -1,12 +1,4 @@
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" />
-</div>
-<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-darkred?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-bloodred?style=for-the-badge&logo=css3&logoColor=white" />
