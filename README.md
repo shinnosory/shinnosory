@@ -6,5 +6,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shinnosory&show_icons=true&theme=dracula&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" height="150" />
+  [![card](https://github-readme-stats.vercel.app/api?username=shinnosory&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
