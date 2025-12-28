@@ -4,7 +4,7 @@
 Atualmente estou iniciando meus estudos em Desenvolvimento Web de forma autodidata, com foco em aprendizado prático e construção de projetos simples.</p>
 <br>
 
-[![shinnosory](https://github-readme-stats.vercel.app/api?username=shinnosory&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-darkred?style=for-the-badge&logo=html5&logoColor=white" />
