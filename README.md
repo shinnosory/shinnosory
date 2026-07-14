@@ -1,10 +1,4 @@
-# 🔴 Bem-vindo ao meu GitHub!
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Red-darkred?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Code-Passion-crimson?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Projects-In_Progress-firebrick?style=for-the-badge&logo=git" />
-</div>
+# 𝜗ৎ Bem-vindo ao meu GitHub!
 
 ---
 
