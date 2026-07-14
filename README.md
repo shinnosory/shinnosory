@@ -8,7 +8,7 @@
   <img src="https://i.imgflip.com/65efzo.gif" height="170"/>
 </p>
 
-## ⌞ About Me ⌝
+## ⌞ About Me ⌝  S🇧🇷
 
 ೃ⁀➷ Technical High School Student in Informatics ;
 
