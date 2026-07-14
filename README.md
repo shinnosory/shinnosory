@@ -13,13 +13,13 @@
 
 ## ⌞ About Me ⌝
 
-ೃ⁀➷ Technical High School Student in Informatics
+ೃ⁀➷ Technical High School Student in Informatics ;
 
-ೃ⁀➷ Currently learning Front-end Development
+ೃ⁀➷ Currently learning Front-end Development ;
 
-ೃ⁀➷ Building projects to strengthen my portfolio
+ೃ⁀➷ Building projects to strengthen my portfolio ;
 
-ೃ⁀➷ Always learning something new
+ೃ⁀➷ Always learning something new!
 
 ---
 
