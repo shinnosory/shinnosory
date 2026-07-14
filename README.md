@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 Estatísticas
+## ➤ Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&title_color=red&icon_color=darkred&text_color=white&bg_color=000000" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&ring=red&fire=darkred&currStreakLabel=crimson" />
@@ -18,7 +18,7 @@
 </div>
 
 
-## 📬 Contato
+## ✉︎ Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/)  
 - 📧 Email: antonelladuraes0@gmail.com  
 
