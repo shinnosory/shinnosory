@@ -19,7 +19,7 @@
 
 ೃ⁀➷ Building projects to strengthen my portfolio ;
 
-ೃ⁀➷ Always learning something new!
+ೃ⁀➷ Always learning something new !
 
 ---
 
