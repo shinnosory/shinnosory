@@ -1,4 +1,3 @@
-```
 <h1 align="center">୨୧ Hi, I'm Antonella ୨୧</h1>
 
 <p align="center">
@@ -40,5 +39,3 @@ https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/
 
 ⟡ Email  
 antonelladuraes0@gmail.com
-```
-
