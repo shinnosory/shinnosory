@@ -19,7 +19,7 @@
 
 
 ## ✉︎ Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/)  
-- 📧 Email: antonelladuraes0@gmail.com  
+- [in] [LinkedIn](https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/)  
+- @ Email: antonelladuraes0@gmail.com  
 
 ---
