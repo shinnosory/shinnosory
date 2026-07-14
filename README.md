@@ -2,7 +2,7 @@
 <h1 align="center">୨୧ Hi, I'm Antonella ୨୧</h1>
 
 <p align="center">
-Front-end Developer in progress ⋆ Technical High School Student in Informatics ⋆ Brazil
+⋆ Technical High School Student in Informatics ⋆
 </p>
 
 <p align="center">
@@ -44,10 +44,6 @@ Front-end Developer in progress ⋆ Technical High School Student in Informatics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=shinnosory&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnosory&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shinnosory&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
