@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/CSS3-bloodred?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red" />
   <img src="https://img.shields.io/badge/Python-darkred?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-crimson?style=for-the-badge&logo=react&logoColor=white" />
 </div>
 
 
