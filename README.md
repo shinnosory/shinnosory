@@ -1,28 +1,71 @@
+```md
+<h1 align="center">୨୧ Hi, I'm Antonella ୨୧</h1>
+
+<p align="center">
+Front-end Developer in progress ⋆ Technical High School Student in Informatics ⋆ Brazil
+</p>
+
+<p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" height="170"/>
+</p>
+
 ---
-<h2 data-importer="text" align="left">  𝜗ৎ Welcome to my github, My name is Antonella!</h2>
 
-###
+## ⌞ About Me ⌝
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+ೃ⁀➷ Technical High School Student in Informatics
 
-## </> Technologies
+ೃ⁀➷ Currently learning Front-end Development
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+ೃ⁀➷ Building projects to strengthen my portfolio
 
-<br clear="both">
+ೃ⁀➷ Always learning something new
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+---
 
-###
+## ⌞ Technologies ⌝
 
-## ✉︎ Contact
-- [in] [LinkedIn](https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/)  
-- @ Email: antonelladuraes0@gmail.com  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
+</p>
+
+---
+
+## ⌞ GitHub Stats ⌝
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shinnosory&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnosory&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shinnosory&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⌞ Contribution Snake ⌝
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⌞ Contact ⌝
+
+⟡ LinkedIn  
+https://www.linkedin.com/in/antonella-dur%C3%A3es-rezende-267a06391/
+
+⟡ Email  
+antonelladuraes0@gmail.com
+```
+
