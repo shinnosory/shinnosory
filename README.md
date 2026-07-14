@@ -2,13 +2,6 @@
 
 ---
 
-## 🌟 Sobre mim
-- 🚀 Desenvolvedor apaixonado por tecnologia e inovação  
-- 🎨 Criatividade aplicada em soluções práticas  
-- 🔧 Explorando novas ferramentas e frameworks  
-
----
-
 ## 📊 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&title_color=red&icon_color=darkred&text_color=white&bg_color=000000" />
@@ -30,14 +23,7 @@
 ---
 
 ## 📬 Contato
-- 💼 [LinkedIn](https://linkedin.com/in/SEU_USUARIO)  
-- 📧 Email: seuemail@exemplo.com  
+- 💼 [LinkedIn](https://linkedin.com/in/antonella-durães-rezende)  
+- 📧 Email: antonelladuraes0@gmail.com  
 
 ---
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-darkred?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-bloodred?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=red" />
-</div>
-
