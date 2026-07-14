@@ -1,4 +1,4 @@
-
+...
 <h1 align="center">୨୧ Hi, I'm Antonella ୨୧</h1>
 
 <p align="center">
@@ -19,8 +19,6 @@
 
 ೃ⁀➷ Always learning something new !
 
----
-
 ## ⌞ Technologies ⌝
 
 <p align="left">
@@ -34,8 +32,6 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 </p>
-
----
 
 ## ⌞ Contact ⌝
 
